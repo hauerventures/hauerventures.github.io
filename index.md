@@ -4,7 +4,7 @@
 
 Hauer Ventures is a family office founded and managed by [Ion Hauer](http://www.ionhauer.com).
 
-## Supporting European deep tech founders
+## Supporting European Deep Tech Founders
 
 We believe that deep tech innovation is the driving force of a better future for the entire planet.
 
